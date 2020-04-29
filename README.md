@@ -1,24 +1,12 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a basic web application to store documents made using ruby on rails.
 
-Things you may want to cover:
+To run first use:
+```
+rails server
+```
 
-* Ruby version
+This build the application, download the required gems and launch Puma- The webserver for rails.
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+We can create new users and then add documents.
