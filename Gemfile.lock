@@ -229,7 +229,7 @@ DEPENDENCIES
   haml (~> 5.1, >= 5.1.2)
   jbuilder (~> 2.11, >= 2.11.5)
   puma (~> 4.3)
-  rails (~> 6.0.5, >= 6.0.5.1)
+  rails (~> 6.0.6)
   sass-rails (>= 6.0.0)
   selenium-webdriver
   simple_form (~> 5.1, >= 5.1.0)
